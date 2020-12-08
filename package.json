@@ -1,5 +1,5 @@
 {
-  "name": "react-carousel-dots",
+  "name": "@houzz/react-carousel-dots",
   "version": "0.1.0",
   "description": "This component provides a pagination method with dots for any amount of images/slides.",
   "keywords": [
@@ -12,28 +12,20 @@
   ],
   "license": "MIT",
   "homepage": "https://github.com/fulopdaniel/react-carousel-dots",
-  "repository" :
-  { "type" : "git"
-  , "url" : "https://github.com/fulopdaniel/react-carousel-dots.git"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fulopdaniel/react-carousel-dots.git"
   },
   "main": "build/index.js",
   "peerDependencies": {
-    "react": "^16.2.0"
-  },
-  "dependencies": {
-    "react": "^16.2.0",
-    "webpack": "^2.6.1",
-    "prop-types": "^15.6.1"
+    "react": "^16.11.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "webpack --watch",
     "build": "webpack"
   },
-  "author": {
-    "name": "Fülöp Dániel",
-    "email": "fulop.dani96@gmail.com"
-  },
+  "author": "Fülöp Dániel <fulop.dani96@gmail.com>",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.3",
@@ -50,6 +42,10 @@
     "eslint-plugin-import": "^2.11.0",
     "eslint-plugin-jsx-a11y": "^6.0.3",
     "eslint-plugin-react": "^7.7.0",
-    "style-loader": "^0.21.0"
+    "style-loader": "^0.21.0",
+    "webpack": "^4.16.5"
+  },
+  "bugs": {
+    "url": "https://github.com/fulopdaniel/react-carousel-dots/issues"
   }
 }
