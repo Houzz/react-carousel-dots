@@ -43,7 +43,8 @@
     "eslint-plugin-jsx-a11y": "^6.0.3",
     "eslint-plugin-react": "^7.7.0",
     "style-loader": "^0.21.0",
-    "webpack": "^4.16.5"
+    "webpack": "^4.16.5",
+    "webpack-cli": "^4.2.0"
   },
   "bugs": {
     "url": "https://github.com/fulopdaniel/react-carousel-dots/issues"
