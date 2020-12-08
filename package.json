@@ -1,6 +1,7 @@
 {
   "name": "@houzz/react-carousel-dots",
   "version": "0.1.0",
+  "private": true,
   "description": "This component provides a pagination method with dots for any amount of images/slides.",
   "keywords": [
     "react",
@@ -11,10 +12,10 @@
     "carousel"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/fulopdaniel/react-carousel-dots",
+  "homepage": "https://github.com/Houzz/react-carousel-dots",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fulopdaniel/react-carousel-dots.git"
+    "url": "git+https://github.com/Houzz/react-carousel-dots.git"
   },
   "main": "build/index.js",
   "peerDependencies": {
@@ -48,5 +49,6 @@
   },
   "bugs": {
     "url": "https://github.com/fulopdaniel/react-carousel-dots/issues"
-  }
+  },
+  "dependencies": {}
 }
