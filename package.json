@@ -1,7 +1,6 @@
 {
   "name": "@houzz/react-carousel-dots",
   "version": "0.1.0",
-  "private": true,
   "description": "This component provides a pagination method with dots for any amount of images/slides.",
   "keywords": [
     "react",
